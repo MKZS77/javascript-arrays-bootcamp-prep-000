@@ -10,6 +10,7 @@ function destructivelyAddElementToBeginningOfArray(array,element) {
   return array;
 }
 
+<<<<<<< HEAD
 function addElementToEndOfArray(array,element) {
   return[...array,element];
 }
@@ -48,6 +49,8 @@ function removeElementFromEndOfArray(array) {
 
 
 
+=======
+>>>>>>> 9e893340aca70b038896f00bb949e8776ff056ce
 
 
 
